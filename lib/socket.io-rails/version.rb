@@ -1,5 +1,5 @@
 module Socketio
   module Rails
-    VERSION = "0.9.11"
+    VERSION = "0.9.16"
   end
 end
