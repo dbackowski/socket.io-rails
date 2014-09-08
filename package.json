@@ -9,8 +9,5 @@
     "type": "git",
     "url": "git://github.com/jhchen/socket.io-rails.git"
   },
-  "homepage": "https://github.com/jhchen/socket.io-rails",
-  "devDependencies": {
-    "socket.io-client": "~1.1.0"
-  }
+  "homepage": "https://github.com/jhchen/socket.io-rails"
 }
