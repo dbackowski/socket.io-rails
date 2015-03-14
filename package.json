@@ -3,7 +3,7 @@
   "version": "1.3.5",
   "description": "Rails asset pipeline wrapper for socket.io",
   "dependencies": {
-    "socket.io-client": "~1.3.5"
+    "socket.io-client": "1.3.5"
   },
   "repository": {
     "type": "git",
