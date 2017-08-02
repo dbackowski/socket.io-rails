@@ -1,4 +1,4 @@
-# socket.io-rails
+# socket.io-rails [![Build Status](https://travis-ci.org/dbackowski/socket.io-rails.svg?branch=master)](https://travis-ci.org/dbackowski/socket.io-rails)
 
 Rails asset pipeline wrapper for [socket.io.js](https://github.com/LearnBoost/socket.io-client).
 
