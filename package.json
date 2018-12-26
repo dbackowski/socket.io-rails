@@ -1,9 +1,9 @@
 {
   "name": "socket.io-rails",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Rails asset pipeline wrapper for socket.io",
   "dependencies": {
-    "socket.io-client": "2.1.1"
+    "socket.io-client": "2.2.0"
   },
   "repository": {
     "type": "git",
